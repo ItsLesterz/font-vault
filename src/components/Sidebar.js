@@ -69,7 +69,7 @@ export default function Sidebar({
           ))}
         </ul>
       </div>
-      */}
+      
      
       {/* Options 
       <div className="sidebar-section">
