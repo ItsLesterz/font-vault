@@ -119,4 +119,11 @@ export const FONT_SITES = [
     description: "Un directorio de fundiciones tipográficas para descubrir estudios y catálogos de fuentes.",
     featured: true,
   },
+  {
+    id: 16,
+    name: "FFonts",
+    url: "https://ffonts.net/",
+    description: "Un sitio de fuentes con una amplia variedad de tipografías para descargar y usar en proyectos creativos.",
+    featured: true,
+  }
 ];
